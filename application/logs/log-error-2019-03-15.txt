@@ -1,0 +1,171 @@
+ERROR - 2019-03-15 01:09:25 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:09:25 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:09:25 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:09:25 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:09:46 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:09:46 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:09:46 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:09:47 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:13:20 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:13:20 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:13:20 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:13:20 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:13:49 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:13:49 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:13:49 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:13:49 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:14:04 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:14:04 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:14:04 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:14:04 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:24:38 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:24:38 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:24:38 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:24:38 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:24:44 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:24:44 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:24:44 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:24:44 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:27:29 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:27:29 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:27:29 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:27:29 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:28:21 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:28:21 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:28:21 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:28:21 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:29:47 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:29:47 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:29:47 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:29:47 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:29:48 --> Severity: Notice  --> Undefined index: StaffID D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 104
+ERROR - 2019-03-15 01:30:12 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:30:12 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:30:12 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:30:12 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:30:13 --> Severity: Notice  --> Undefined index: StaffID D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 104
+ERROR - 2019-03-15 01:31:48 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:31:48 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:31:48 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:31:48 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:31:49 --> Severity: Notice  --> Undefined index: StaffID D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 104
+ERROR - 2019-03-15 01:32:55 --> Severity: Notice  --> Array to string conversion D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 106
+ERROR - 2019-03-15 01:32:55 --> Severity: Warning  --> Illegal string offset 'StaffID' D:\Xampp\htdocs\54573m\application\controllers\StaffInfoController.php 82
+ERROR - 2019-03-15 01:32:55 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:32:55 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:32:55 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:32:55 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:32:55 --> Severity: Notice  --> Undefined variable: StaffID D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 303
+ERROR - 2019-03-15 01:33:24 --> Severity: Notice  --> Undefined index: StaffID D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 104
+ERROR - 2019-03-15 01:35:32 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:35:32 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:35:32 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:35:32 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:35:33 --> Severity: Notice  --> Undefined index: StaffID D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 104
+ERROR - 2019-03-15 01:35:48 --> Severity: Notice  --> Undefined variable: db D:\Xampp\htdocs\54573m\application\controllers\StaffInfoController.php 82
+ERROR - 2019-03-15 01:35:48 --> Severity: Notice  --> Undefined variable: db D:\Xampp\htdocs\54573m\application\controllers\StaffInfoController.php 89
+ERROR - 2019-03-15 01:35:48 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:35:48 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:35:48 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:35:48 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:35:48 --> Severity: Notice  --> Undefined variable: StaffID D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 303
+ERROR - 2019-03-15 01:35:53 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:35:53 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:35:53 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:35:53 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:35:54 --> Severity: Notice  --> Undefined index: StaffID D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 104
+ERROR - 2019-03-15 01:38:56 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:38:56 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:38:56 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:38:56 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:45:09 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:45:09 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:45:09 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:45:09 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:45:51 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:45:51 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:45:51 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:45:51 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:45:52 --> Severity: Warning  --> Illegal string offset 'StaffID' D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 104
+ERROR - 2019-03-15 01:45:52 --> Severity: Warning  --> Illegal string offset 'StaffID' D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 104
+ERROR - 2019-03-15 01:45:52 --> Severity: Warning  --> Illegal string offset 'StaffID' D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 105
+ERROR - 2019-03-15 01:47:22 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:47:22 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:47:22 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:47:22 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:47:36 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:47:36 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:47:36 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:47:36 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:47:41 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:47:41 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:47:41 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:47:41 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:47:55 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:47:55 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:47:55 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:47:55 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:50:35 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:50:35 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:50:35 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:50:35 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:50:56 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:50:56 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:50:56 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:50:56 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:51:07 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:51:07 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:51:07 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:51:07 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:51:16 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:51:16 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:51:16 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:51:16 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:51:22 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:51:35 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:52:13 --> Severity: Notice  --> Undefined index: StaffOffice D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 108
+ERROR - 2019-03-15 01:52:13 --> Severity: Notice  --> Undefined index: staffBranch D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 111
+ERROR - 2019-03-15 01:52:23 --> Severity: Notice  --> Undefined variable: db D:\Xampp\htdocs\54573m\application\controllers\StaffInfoController.php 82
+ERROR - 2019-03-15 01:52:23 --> Severity: Notice  --> Undefined variable: db D:\Xampp\htdocs\54573m\application\controllers\StaffInfoController.php 89
+ERROR - 2019-03-15 01:52:23 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:52:23 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:52:23 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:52:23 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:52:23 --> Severity: Notice  --> Undefined variable: StaffID D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 303
+ERROR - 2019-03-15 01:52:33 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:52:33 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:52:33 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:52:33 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:53:10 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:53:19 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:53:19 --> Severity: Notice  --> Undefined variable: StaffName D:\Xampp\htdocs\54573m\application\views\Employee\formEmployeeNew.php 24
+ERROR - 2019-03-15 01:53:25 --> Severity: Notice  --> Undefined index: StaffOffice D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 108
+ERROR - 2019-03-15 01:53:25 --> Severity: Notice  --> Undefined index: staffBranch D:\Xampp\htdocs\54573m\application\models\staffinfomodel.php 111
+ERROR - 2019-03-15 01:53:30 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:53:30 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:53:30 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:53:30 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:54:28 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:54:28 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:54:28 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:54:28 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:56:23 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:56:23 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:56:23 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:56:23 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:57:34 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:57:34 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:57:34 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:57:34 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 01:59:52 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 01:59:52 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 01:59:52 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 01:59:52 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 02:00:35 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 02:00:35 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 02:00:35 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 02:00:35 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
+ERROR - 2019-03-15 02:00:51 --> Severity: Warning  --> A non-numeric value encountered D:\Xampp\htdocs\54573m\application\views\Layout\header.php 183
+ERROR - 2019-03-15 02:00:51 --> Severity: Notice  --> Undefined variable: branches D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 71
+ERROR - 2019-03-15 02:00:51 --> Severity: Notice  --> Undefined variable: depts D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 78
+ERROR - 2019-03-15 02:00:51 --> Severity: Notice  --> Undefined variable: offices D:\Xampp\htdocs\54573m\application\views\Employee\formAccountNew.php 107
